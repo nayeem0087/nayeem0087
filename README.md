@@ -1,4 +1,4 @@
-# Hi 👋, I'm <YOUR NAME>  
+# Hi 👋, I'm Nayeem Islam 
 ### 🔭 I build things with JavaScript,TypeScript, and React
 
 **I'm currently learning React
