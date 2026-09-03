@@ -1,4 +1,5 @@
-# 💫 About Me:
+# Hi, I'm Nayeem Islam
+
 I am currently learning React
 
 
