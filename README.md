@@ -1,7 +1,12 @@
+<p align="center">
+  <img src="banner.png" alt="Nayeem Islam Banner" width="100%">
+</p>
+
+
 # Hi 👋, I'm Nayeem Islam 
 ### 🔭 I build things with JavaScript,TypeScript, and React
 
-**I'm currently learning React
+**I'm currently learning React**
 
 
 ## 🌐 Socials:
