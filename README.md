@@ -1,5 +1,4 @@
 Hi, I'm Nayeem Islam
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-End Developer;Interested in Game Development](https://git.io/typing-svg)
 
 I'm currently learning React
 
